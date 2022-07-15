@@ -1,0 +1,2 @@
+# MagentoSampleModule
+Magento Sample Module 
